@@ -1,4 +1,5 @@
 // ln -nsf ../lib lib 
+// creates symlink to /lib in node_modules/rle
 
 var fs = require('fs');
 var lib = '../lib';
